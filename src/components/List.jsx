@@ -1,4 +1,4 @@
-import NewTask from "./newTask"
+import NewTask from "./NewTask"
 
 function List({handleCheck, filterList, handleDelete}) {
     return (
